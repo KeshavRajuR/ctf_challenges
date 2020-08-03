@@ -1,6 +1,6 @@
 # All your bases are belongs to us
 
-Challenge Level - __EASy__  
+Challenge Level - __EASY__  
 Points - __50__
 
 ---
