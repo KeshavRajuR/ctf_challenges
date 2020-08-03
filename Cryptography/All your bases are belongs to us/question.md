@@ -1,4 +1,4 @@
-# samuel-morse-puzzle
+# All your bases are belongs to us
 
 Challenge Level - __EASy__  
 Points - __50__
