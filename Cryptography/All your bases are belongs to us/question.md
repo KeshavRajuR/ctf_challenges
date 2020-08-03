@@ -1,0 +1,13 @@
+# samuel-morse-puzzle
+
+Challenge Level - __EASy__  
+Points - __50__
+
+---
+### Question
+The BASEic challenge.
+---
+### Files provided to the contestant
+base.txt
+
+---
