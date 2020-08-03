@@ -1,21 +1,22 @@
 # English Verulam
 
 Challenge Level - __EASY__  
-Points - __70__
+Points - __100__
 
 ---
 ### Question
 Can you find the cipher made by this Earl?
-The flag is is form PESCTFTHEFLAGHERE
-Convert it to PES_CTF{THE_FLAG_HERE}
+The flag is is form FLAGTHEFLAGHERE
+Convert it to FLAG{THE_FLAG_HERE}
+
+AABABABABAAAAAAAABBABABAAAABBBAABAABAAAAAABAAABAAABAAABBAABAAABBBAABAAAAAABAAAAAAAABAABBABABBAA
 
 ---
 ### Files provided to the contestant
 verulam.txt
 
 ---
-### Command to create challenge
-```
-chmod +x chal.sh
-./chal.sh
-```
+### Flag
+FLAG{WHERE_IS_THE_BACON}
+
+
