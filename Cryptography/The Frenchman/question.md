@@ -1,6 +1,6 @@
 # The Frenchman
-Challenge Level - __EASY__  
-Points - __100__
+Challenge Level - __MEDIUM__  
+Points - __300__
 
 ---
 ### Question
@@ -10,3 +10,5 @@ This cipher should be easy to dcode.
 frenchman.txt
 
 ---
+### Flag
+flag{v1gn3r3_1s_pr3tty_sn34ky} 
