@@ -1,7 +1,7 @@
 # Riv Sha Adl
 
 Challenge Level - __MEDIUM__  
-Points - __200__
+Points - __300__
 
 ---
 ### Question
