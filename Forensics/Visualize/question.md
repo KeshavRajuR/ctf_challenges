@@ -1,4 +1,4 @@
-# Visulize
+# Visualize 
 
 Challenge Level - __MEDIUM__  
 Points - __300__
@@ -12,6 +12,7 @@ Try to get both the flags
 
 ### Flag
 FLAGB33PB00PH3R3
+
 flag{th3_3y3s_0f_mU51C}
 
 ---
