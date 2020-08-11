@@ -1,4 +1,4 @@
-# bytes-secret
+# mortys-secret
 
 Challenge Level - __EASY__  
 Points - __100__
