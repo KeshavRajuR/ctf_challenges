@@ -11,6 +11,6 @@ You cant type forever you know?
 
 ### Flag
 
-flag{th3_b4s3s_4re_cl3ar3d}
+flag{aut0mated_c0unt1ng_1s_3asy}
 
 ---
