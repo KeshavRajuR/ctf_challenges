@@ -1,7 +1,7 @@
 # Brute
 
-Challenge Level - __EASY__  
-Points - __100__
+Challenge Level - __HARD__  
+Points - __500__
 
 ---
 ### Question
