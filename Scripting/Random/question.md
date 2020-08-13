@@ -1,7 +1,7 @@
 # Random Counter
 
-Challenge Level - __EASY__  
-Points - __100__
+Challenge Level - __MEDIUM__  
+Points - __300__
 
 ---
 ### Question
