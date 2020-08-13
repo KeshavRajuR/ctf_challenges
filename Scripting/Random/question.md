@@ -15,4 +15,4 @@ flag{ins3rt_r4nd0m_flag_h3r3}
 
 ---
 ### File
-count.py to be put in socat
+countrand.py to be put in socat
