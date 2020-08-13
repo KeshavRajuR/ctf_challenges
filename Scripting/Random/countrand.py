@@ -9,4 +9,4 @@ try:
 			exit()
 except:
 	exit()
-print("flag{nice_c0unting_random}")
+print("flag{ins3rt_r4nd0m_flag_h3r3}")
