@@ -14,3 +14,5 @@ You cant type forever you know?
 flag{aut0mated_c0unt1ng_1s_3asy}
 
 ---
+### File
+count.py to be put in socat
