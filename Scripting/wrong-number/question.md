@@ -1,7 +1,7 @@
 # wrong-number
 
-Challenge Level - __MEDIUM__  
-Points - __200__
+Challenge Level - __HARD__  
+Points - __300__
 
 ---
 ### Question
@@ -13,4 +13,4 @@ No file provided. Contestant has to netcat to the ip and port and program will b
 
 ---
 ### Flag
-CTF{y0ur_5scr1p7_w0rk5}
+CTF{y0ur_5cr1p7_w0rk5}
