@@ -13,4 +13,4 @@ secret.jpg
 
 ---
 ### Flag
-CTF{1_aM_5m4r7}
+flag{1_aM_5m4r7}
