@@ -13,4 +13,4 @@ No file provided. Contestant has to netcat to the ip and port and program will b
 
 ---
 ### Flag
-CTF{y0ur_5cr1p7_w0rk5}
+flag{y0ur_5cr1p7_w0rk5}
