@@ -13,5 +13,5 @@ do
 done
 
 cd 32
-echo "flag{you_got_the_flag}" > maybe_here_13
+echo "flag{1_c4n_f1nd_4ny_f1l3}" > maybe_here_13
 chmod 444 maybe_here_13
