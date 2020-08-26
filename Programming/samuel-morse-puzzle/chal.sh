@@ -1,6 +1,6 @@
 #!/bin/bash
 
-flag="flag{you_got_the_flag}"
+flag="flag{n07h1n6_bu7_._4nd_-}"
 level=0
 
 RED='\033[1;31m'
