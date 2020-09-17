@@ -1,7 +1,7 @@
 # Brute
 
 Challenge Level - __HARD__  
-Points - __500__
+Points - __400__
 
 ---
 ### Question
