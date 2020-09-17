@@ -1,7 +1,7 @@
 # Hackerm0n
 
-Challenge Level - __HARD__  
-Points - __500__
+Challenge Level - __MEDIUM__  
+Points - __300__
 
 ---
 ### Question
