@@ -1,7 +1,7 @@
 # Triple Kill
 
 Challenge Level - __MEDIUM__  
-Points - __300__
+Points - __200__
 
 ---
 ### Question
