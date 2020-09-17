@@ -1,7 +1,7 @@
 # whats-wrong
 
 Challenge Level - __EASY__  
-Points - __100__
+Points - __50__
 
 ---
 ### Question
