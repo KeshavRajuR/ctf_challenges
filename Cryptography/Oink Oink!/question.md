@@ -1,7 +1,7 @@
 # Oink Oink!
 
 Challenge Level - __EASY__  
-Points - __60__
+Points - __50__
 
 ---
 ### Question
