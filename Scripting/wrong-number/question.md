@@ -1,6 +1,6 @@
 # wrong-number
 
-Challenge Level - __HARD__  
+Challenge Level - __MEDIUM__  
 Points - __300__
 
 ---
