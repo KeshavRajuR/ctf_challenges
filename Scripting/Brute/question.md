@@ -11,7 +11,7 @@ Collect the characters,my friend
 
 ### Flag
 
-flag{brut3f0rce_0p}
+flag{bruteforce_for_the_win}
 
 ---
 ### File
