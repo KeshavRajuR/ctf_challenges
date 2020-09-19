@@ -12,7 +12,7 @@ try:
 		if option == 1:
 			user = input("Enter username: ")
 			num = random.randint(1,len(flag)-1)
-			print(flag[num-1])
+			#print(flag[num-1])
 			pass1 = input("Enter the {} letter in password \n".format(num))
 			if pass1 == flag[num-1] and user == "admin":
 				print("The {} letter in password is CORRECT\n\n".format(num))
