@@ -1,5 +1,5 @@
 import random
-flag="ctf{bruteforce_for_the_win}"
+flag="flag{bruteforce_for_the_win}"
 try:
 	while True:
 		print("########################################################################################")
