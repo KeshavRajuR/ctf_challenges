@@ -5,7 +5,7 @@ Points - __300__
 
 ---
 ### Question
-Let's see you break that hash?  
+We've been given a hash to break. I found this piece of code when I hacked into the sources website. Can you help us break the hash?  
 flag format: flag{password}
 
 ---
