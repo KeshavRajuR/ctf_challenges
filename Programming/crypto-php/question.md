@@ -12,3 +12,7 @@ flag format: flag{password}
 ### Files provided to the contestant
 hash.txt
 problem.php
+
+---
+### Flag
+flag{amyvalerio}
